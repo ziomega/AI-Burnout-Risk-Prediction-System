@@ -131,7 +131,7 @@ The following algorithms were trained and compared:
 # 📁 Project Structure
 
 ```text
-Impact-of-AI-on-Students/
+AI-Burnout-Risk-Prediction-System/
 │
 ├── app.py
 ├── requirements.txt
@@ -200,13 +200,13 @@ Impact-of-AI-on-Students/
 Clone the repository
 
 ```bash
-git clone https://github.com/ziomega/Impact-of-AI-on-Students.git
+git clone https://github.com/ziomega/AI-Burnout-Risk-Prediction-System.git
 ```
 
 Move into the project directory
 
 ```bash
-cd Impact-of-AI-on-Students
+cd AI-Burnout-Risk-Prediction-System
 ```
 
 Create a virtual environment
